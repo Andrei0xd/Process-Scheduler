@@ -6,7 +6,9 @@ that it won't compute least frequent/least recent results.
 
 ### Information:
 Processes that it takes : CheckPrime, NextPrime, Fibonacci, Sqrt, Cube, Factorial
+
 Types of scheduling : Random, Round Robin, Weighted.
+
 Types of cache : LRU, LFU.
 
 
